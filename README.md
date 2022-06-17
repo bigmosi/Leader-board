@@ -2,8 +2,8 @@
 
 # Project Name
 
-> My Portfolio
--It's project built using HTML and CSS to see how github flow works.
+> LEADEROARD APPLICATION
+-It's project built using HTML, JavaScript and CSS to see how github flow works.
 
 ## Built With
 
