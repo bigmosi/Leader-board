@@ -2,8 +2,8 @@
 
 # Project Name
 
-> My Portfolio
--It's project built using HTML and CSS to see how github flow works.
+> LEADER BOARD APPLICATION
+-It's project built using HTML, JavascriptS and CSS to see how github flow works.
 
 ## Built With
 
@@ -24,17 +24,26 @@ To get a local copy up and running follow these simple example steps.
 -Install the latest version of node.
 Install your favorite Text Editor
 ### Setup
-- Set-up linters in your local env
-- The npm package manager is going to create a node_modules directory to install all of your dependencies.You shouldn't commit that directory. To avoid that, you can create a .gitignore file
-  and add node_modules to it:
-- you need to initialize npm to create package.json file
-- run npm install --save-dev hint@6.x
-  -add hintrc
-  -run npx hint .
-- .stylelintrc
-- run npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
-- run npx stylelint "**/*.{css,scss}"
-### Install
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+[Download the ZIP from this location](https://github.com/bigmosi/Leader-board/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+
+```bash
+git clone https://github.com/bigmosi/Leader-board.git
+
+- Once the files are on your machine, open the _Leader-board_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set-Up
+
+## 🛠 Installation & Set Up
+
+1. Install Node Modules
+
+   ```sh
+   npm install
+
+2. Start the development server
+
+   ```sh
+   npm start
 
 
 ## Authors
